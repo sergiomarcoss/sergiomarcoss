@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=641f5e&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2CC870&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Sérgio+Marcos+Viana+Júnior;Tenho+19+anos;Natural+de+Teresina+PI+Brasil;Academico+em+Sistemas+de+informação;BEM+VINDO+AO+MEU+GITHUB!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2CC870&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Sérgio+Marcos+Viana+Júnior;Tenho+19+anos;Natural+de+Teresina+PI+Brasil;Acadêmico+em+Sistemas+de+informação;BEM+VINDO+AO+MEU+GITHUB!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sergiomarcoss&show_icons=true&count_private=true&hide_border=true&title_color=df931b&icon_color=98092b&text_color=c9d1d9&bg_color=0d1117" alt="Sérgio Marcos Viana Júnior github stats" /> 
@@ -20,7 +20,6 @@
 
 ### Habilidades principais:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 ### Ferramentas:
